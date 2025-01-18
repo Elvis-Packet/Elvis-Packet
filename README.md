@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Simple E-Commerce Cart](https://github.com/Elvis-Packet/Simple-Ecommerce-Cart).
 - 🌱 I’m currently learning **JavaScript, React, and Full-Stack Development**.
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Python**.
-- 📫 How to reach me: **[pearlcious19@gmail.com](mailto:pearlcious19@gmail.com)**
+- 📫 How to reach me: **[manfuturekahande@gmail.com](mailto:manfuturekahande@gmail.com)**
 
 ---
 
