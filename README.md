@@ -1,53 +1,49 @@
--# Hi there! 
-👋 Welcome to My GitHub
-## Am  Elvis Mbugua Muchiri
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-I'm a **passionate developer** with a growing expertise in **web development** and **software engineering**. I enjoy building creative, efficient, and user-friendly solutions using modern tools and technologies.
+###
 
-## 🚀 Skills & Technologies
-Here are the tools and languages I work with:
-- **JavaScript**: Crafting interactive and dynamic web applications.
-- **React**: Building reusable components and scalable front-end solutions.
-- **Python**: Writing clean, efficient, and functional scripts for various applications.
-- **HTML & CSS**: Designing responsive, visually appealing, and accessible web pages.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🌱 Currently Learning
-- Deepening my knowledge of **React hooks**, **context API**, and advanced state management.
-- Exploring **backend technologies** and **REST APIs** for full-stack development.
-- Continuously improving my **problem-solving skills** and diving into **algorithms and data structures**.
+###
 
-## 🔨 Projects
-Here are a few projects I've worked on:
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 1. [Simple E-Commerce Cart](https://github.com/yourusername/simple-ecommerce-cart)
-A React-based application to practice components, props, state management, and event handling.
-- **Tech Stack**: React, JavaScript, CSS
-- Features: Add to cart, remove from cart, and price calculation.
+###
 
-### 2. [Recipe Search App](https://github.com/yourusername/recipe-search-app)
-A JavaScript app leveraging TheMealDB API to search for recipes.
-- **Tech Stack**: JavaScript, HTML, CSS, REST API
-- Features: Real-time search functionality and detailed recipe information.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 3. [Trivia Quiz App](https://github.com/yourusername/trivia-quiz-app)
-An interactive quiz app built with JavaScript and Open Trivia Database API.
-- **Tech Stack**: JavaScript, HTML, CSS
-- Features: Dynamic question fetching and score tracking.
+###
 
-### 4. [Country Info Finder](https://github.com/yourusername/country-info-finder)
-A JavaScript app using the REST Countries API to provide details about countries worldwide.
-- **Tech Stack**: JavaScript, HTML, CSS, REST API
-- Features: Search by country name and display key statistics.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 📫 Let's Connect
-Feel free to reach out or connect with me:
-- **Email**: [manfuturekahande@gmail.com](Gmail:manfuturekahande@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)
+###
 
-## 🌟 Fun Fact
-I enjoy exploring **new technologies**, taking on **exciting challenges**, and sharing knowledge with the developer community!
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-Feel free to explore my repositories and share your thoughts! 😊
+###
