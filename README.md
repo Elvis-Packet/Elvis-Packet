@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on [Simple E-Commerce Cart]([https://github.com/Elvis-Packet/Simple-Ecommerce-Cart](https://github.com/Elvis-Packet/E-commerce-code-challange)).
+- 🔭 I’m currently working on [Simple E-Commerce Cart]((https://github.com/Elvis-Packet/E-commerce-code-challange)).
 - 🌱 I’m currently learning **JavaScript, React, and Full-Stack Development**.
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Python**.
 - 📫 How to reach me: **[manfuturekahande@gmail.com](mailto:manfuturekahande@gmail.com)**
