@@ -41,7 +41,7 @@ A JavaScript app using the REST Countries API to provide details about countries
 
 ## 📫 Let's Connect
 Feel free to reach out or connect with me:
-- **Email**: [pearlcious19@gmail.com](Gmail:manfuturekahande@gmail.com)
+- **Email**: [manfuturekahande@gmail.com](Gmail:manfuturekahande@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
 - **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
