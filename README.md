@@ -56,8 +56,9 @@
 ---
 
 ### 🐍 Snake Animation:
+### 🐍 Snake Animation:
 <p align="center">
-  <img src="https://github.com/Elvis-Packet/Elvis-Packet/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Elvis-Packet/snk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
