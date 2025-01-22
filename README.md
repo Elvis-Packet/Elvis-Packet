@@ -26,7 +26,7 @@
 ---
 
 ### 🔨 Featured Projects:
-1. [Simple E-Commerce Cart]([(https://e-commerce-code-challange.vercel.app/))  
+1. [Simple E-Commerce Cart]((https://e-commerce-code-challange.vercel.app/))  
    A React-based application to practice components, props, state management, and event handling.
    - **Tech Stack**: React, JavaScript, CSS
    - Features: Add to cart, remove from cart, and price calculation.
