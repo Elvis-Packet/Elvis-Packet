@@ -31,7 +31,7 @@
    - **Tech Stack**: React, JavaScript, CSS
    - Features: Add to cart, remove from cart, and price calculation.
 
-2. [Recipe Search App](https://github.com/Elvis-Packet/Recipe-Search-App)  
+2. [Recipe Search App](https://elvis-packet.github.io/Recipe-project/)  
    A JavaScript app leveraging TheMealDB API to search for recipes.
    - **Tech Stack**: JavaScript, HTML, CSS, REST API
    - Features: Real-time search functionality and detailed recipe information.
